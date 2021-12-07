@@ -1,0 +1,13 @@
+.feedbackBtns {
+  display: flex;
+  justify-content: start;
+  flex-direction: row;
+}
+
+.Btn {
+  margin: 20px;
+}
+
+button:first-child {
+  margin-left: 0;
+}

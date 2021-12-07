@@ -1,0 +1,11 @@
+.filteredCountries {
+  list-style: none;
+}
+
+.flag {
+  width: 150px;
+}
+
+.countryDetail li {
+  list-style: none;
+}
